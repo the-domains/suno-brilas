@@ -65,16 +65,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=HgzGwKwLmgM'
 title: Queen - Don't Stop Me Now (Official Video)
-datePublished: '2016-08-08T00:37:05.057Z'
-dateModified: '2016-08-08T00:37:04.922Z'
+datePublished: '2016-08-08T00:40:03.074Z'
+dateModified: '2016-08-08T00:40:02.558Z'
 via: {}
 sourcePath: _posts/2016-08-08-queen-dont-stop-me-now-official-video.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: queen-dont-stop-me-now-official-video/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
