@@ -67,11 +67,11 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=HgzGwKwLmgM'
 title: Queen - Don't Stop Me Now (Official Video)
-datePublished: '2016-08-08T00:10:06.731Z'
-dateModified: '2016-08-07T23:40:34.204Z'
+datePublished: '2016-08-08T00:37:05.057Z'
+dateModified: '2016-08-08T00:37:04.922Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-08-queen-dont-stop-me-now-official-video.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
